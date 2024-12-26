@@ -35,8 +35,8 @@ A feature-rich and user-friendly Task-Management Application built using **Sprin
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/todo-list-application.git
-   cd todo-list-application
+   git clone [https://github.com/VidyasagarAlajangi/Task-Management.git]
+   cd Task-Management
    ```
 
 2. Build the application:
